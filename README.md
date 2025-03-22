@@ -1,2 +1,4 @@
 # Rabbit-In-Space
-First Delphi Project
+Обычно здесь написано что-то умное о проекте ₍ᐢ. .ᐢ₎
+
+#DelphiProject #FirstLabAISD
